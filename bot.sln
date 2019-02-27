@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bot", "bot\bot.vcproj", "{0E8F5215-0363-4999-A6EB-0DDD07697DB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tester", "tester\tester.vcproj", "{F0E39CAC-2E56-412B-AFBC-63CFF1B1B472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8F5215-0363-4999-A6EB-0DDD07697DB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E8F5215-0363-4999-A6EB-0DDD07697DB8}.Debug|Win32.Build.0 = Debug|Win32
+		{0E8F5215-0363-4999-A6EB-0DDD07697DB8}.Release|Win32.ActiveCfg = Release|Win32
+		{0E8F5215-0363-4999-A6EB-0DDD07697DB8}.Release|Win32.Build.0 = Release|Win32
+		{F0E39CAC-2E56-412B-AFBC-63CFF1B1B472}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0E39CAC-2E56-412B-AFBC-63CFF1B1B472}.Debug|Win32.Build.0 = Debug|Win32
+		{F0E39CAC-2E56-412B-AFBC-63CFF1B1B472}.Release|Win32.ActiveCfg = Release|Win32
+		{F0E39CAC-2E56-412B-AFBC-63CFF1B1B472}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
